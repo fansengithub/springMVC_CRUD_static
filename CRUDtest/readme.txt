@@ -1,1 +1,1 @@
-springMVC  CRUD  静态操作。
+springMVC  CRUD  静态操作。 restful风格。
